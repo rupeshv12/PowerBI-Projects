@@ -2,7 +2,7 @@
 
 * Dataset excel final_df_dataset.csv is attached here which is already contained clean data.
 * All EDA and preprocessing steps are already completed on kaggle dataset
-* Go to post to see the EDA implemented on original dataset and final_df_dataset.csv is created.
+* Go to post https://github.com/rupeshv12/EDA-Data-Visualization-Python-/tree/main/Kaggle-TMDB-10000-Movie-Visualization to see the EDA implemented on original dataset and final_df_dataset.csv is created.
 
 
 
